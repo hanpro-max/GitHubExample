@@ -81,7 +81,9 @@ GitHub supports emoji!
 ---
 
 
-작성 예시 
+작성 예시  
+  <img src="https://img.shields.io/badge/뱃지는 https://shields.io/ 와 https://simpleicons.org/ 를 참고%20-FFCCCC" alt="C#">
+
 <https://img.shields.io/badge/license-mit-green.svg"> 
 https://img.shields.io/badge/--.svg 
 
